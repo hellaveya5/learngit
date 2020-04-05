@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586065032 source:c:\users\98333\desktop\链栈\linkstack.c
+	"../QG训练营第二次培训/栈以及栈的应用/栈/代码和头文件/head/LinkStack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1586017188 c:\users\98333\desktop\qg训练营第二次培训\栈以及栈的应用\栈\代码和头文件\head\linkstack.h
+
+1586064775 source:c:\users\98333\desktop\链栈\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../QG训练营第二次培训/栈以及栈的应用/栈/代码和头文件/head/LinkStack.h"
+
