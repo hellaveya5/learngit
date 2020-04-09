@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="easytask:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/easytask_jar</output-path>
+    <root id="archive" name="easytask.jar">
+      <element id="module-output" name="easytask" />
+    </root>
+  </artifact>
+</component>
