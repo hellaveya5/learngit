@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1586070454 source:c:\users\98333\desktop\四则\head.c
-
-1586100251 source:c:\users\98333\desktop\四则\main.c
-	<stdio.h>
-	<stdlib.h>
-
